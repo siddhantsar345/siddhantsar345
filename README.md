@@ -1,5 +1,5 @@
 - 🔭 I’m currently working as a Data Analyst.
 - 🔭 Exploring different cloud services like Azure, AWS.
-- 🌱 I’m currently learning skills related to Data Engineering.
+- 🌱 I’m currently learning exploring the Data Engineering side like Docker and Kubernates.
 - 💞️ I’m eager to connect with professionals in analytics, share ideas, collaborate on projects, and explore opportunities where I can grow and contribute as a Data Analyst.
 - 📫 Reach me out on linkedin.com/in/siddhant-sar/
