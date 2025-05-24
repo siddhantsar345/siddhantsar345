@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on Full Stack Development.
+- 🔭 I’m currently working as a Data Analyst.
 - 🔭 Exploring different cloud services like Azure, AWS.
-- 🌱 I’m currently learning skills related to front end and back end development.
+- 🌱 I’m currently learning skills related to Data Engineering.
 - 💞️ I’m looking to collaborate on exciting ideas.
 - 📫 Reach me out on linkedin.com/in/siddhant-sar/
